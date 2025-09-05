@@ -1,2 +1,2 @@
 # delta-demo2
-my second repository
+my second repository.
